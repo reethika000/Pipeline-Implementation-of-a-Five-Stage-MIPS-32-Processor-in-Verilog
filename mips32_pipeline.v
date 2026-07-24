@@ -26,8 +26,8 @@ module mips32_pipeline(
                 IF_ID_NPC_reg <= 0;
             end else begin
                 IF_ID_IR_reg <= instruction;   
-                IF_ID_NPC_reg <= PC + 1;       
-                PC <= PC + 1;                  
+                IF_ID_NPC_reg <= PC + 4;       
+                PC <= PC + 4;                  
             end
              end
           end
