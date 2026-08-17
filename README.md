@@ -85,8 +85,4 @@ FC000000   // halt                  -> stop execution
 
 Execution stops at the **HALT** instruction.  
 
----
 
-## References
-- Indranil Sengupta, *Hardware Modeling using Verilog, Lecture 37–40 (Pipeline Implementation of a Processor)*, IIT Kharagpur  
-- David A. Patterson, John L. Hennessy, *Computer Organization and Design: The Hardware/Software Interface*  
