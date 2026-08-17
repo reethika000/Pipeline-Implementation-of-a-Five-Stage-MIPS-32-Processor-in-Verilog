@@ -18,8 +18,7 @@ The processor supports the following stages:
 
 ## Features
 - **32 general-purpose registers (`R0–R31`)**, each **32-bit**  
-- **R0 hardwired to 0** (cannot be modified)  
-- **Word-addressable memory model** (32-bit words)  
+- **R0 hardwired to 0** (cannot be modified)    
 - **Subset of MIPS32 ISA implemented**:  
   - **Arithmetic/Logic**: `ADD`, `SUB`, `MUL`, `AND`, `OR`, `SLT`  
   - **Immediate Arithmetic**: `ADDI`, `SUBI`, `SLTI`  
