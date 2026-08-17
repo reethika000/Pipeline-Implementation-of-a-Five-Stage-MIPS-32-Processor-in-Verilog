@@ -37,7 +37,8 @@ MIPS instructions are **32 bits wide**. Two formats are used in this project:
 - **I-type**: opcode (6 bits), rs (5 bits), rt (5 bits), immediate (16 bits)  
 
 **Figure 1. MIPS Instruction Encoding Formats**  
-![Instruction Encoding](MIPS%20Instruction%20Encoding.png)  
+<img width="966" height="542" alt="MIPS Instruction Encoding" src="https://github.com/user-attachments/assets/c8d2bb7e-b639-4c85-8ef8-f4044e1bd307" />
+  
 
 ---
 
@@ -45,7 +46,8 @@ MIPS instructions are **32 bits wide**. Two formats are used in this project:
 The datapath is implemented with **pipeline registers** between each stage.  
 
 **Figure 2. Block Diagram of the 5-Stage Pipelined Processor**  
-![Pipeline Block Diagram](Block%20Diagram.png)  
+<img width="1442" height="727" alt="Block Diagram" src="https://github.com/user-attachments/assets/69b1718d-baee-48da-b223-49ba591d07c4" />
+
 
 ---
 
